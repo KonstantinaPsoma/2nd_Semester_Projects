@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618390757 source:c:\users\stefanos\desktop\university\2nd_semester\data_structures\exercises\a16f4project\a16f4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

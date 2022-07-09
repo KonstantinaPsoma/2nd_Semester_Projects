@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615842899 source:c:\users\stefanos\desktop\university\2nd_semester\data_structures\exercises\a8f2project\a8f2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
