@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622663543 source:c:\users\stefanos\desktop\university\2nd_semester\data_structures\exercises\a4f6project\a4f6.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

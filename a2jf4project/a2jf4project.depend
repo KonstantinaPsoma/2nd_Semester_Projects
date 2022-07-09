@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617696725 source:c:\users\stefanos\desktop\university\2nd_semester\data_structures\exercises\a2jf4project\a2jf4.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

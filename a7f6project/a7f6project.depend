@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622021181 source:c:\users\stefanos\desktop\university\2nd_semester\data_structures\exercises\a7f6project\a7f6.c
+	<stdio.h>
+	<ctype.h>
+
