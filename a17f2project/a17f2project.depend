@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615842138 source:c:\users\stefanos\desktop\university\2nd_semester\data_structures\exercises\a17f2project\a17f2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

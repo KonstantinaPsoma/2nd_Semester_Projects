@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621257097 source:c:\users\stefanos\desktop\university\2nd_semester\data_structures\exercises\a30f5project\a30f5.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
